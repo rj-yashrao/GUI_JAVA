@@ -44,7 +44,7 @@ public class GUI_JAVA {
         label.setBounds(20, 60, 250, 25);
 
         // Add components to the frame
-        //   Once your components are created and positioned, you still need to attach them to the window using .add():
+        //   Once your components are created and positioned, you still need to attach them to the window using .add():qqq
         frame.add(textField);
         frame.add(button);
         frame.add(label);
